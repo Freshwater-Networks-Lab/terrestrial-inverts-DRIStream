@@ -1,0 +1,256 @@
+﻿node,N,class,order,family,subfamily,genus,cat,Resource Method,Consumer Method
+Ranunculus penicillatus,0.024,NA,Ranunculales,Ranunculaceae,Ranunculoideae,Ranunculus,producer,exact,exact
+Berula erecta,NA,NA,Apiales,Apiaceae,Apioideae,Berula,producer,exact,exact
+Nasturtium officinale,0.295,NA,Brassicales,Brassicaceae,NA,Nasturtium,producer,exact,exact
+Lemna ,NA,NA,Alismatales,Araceae,Lemnoideae,Lemna,producer,exact,genus
+Epilobium hirsutum,NA,NA,Myrtales,Onagraceae,Onagroideae,Epilobium,producer,exact,exact
+Epilobium parviflorum,1.153,NA,Myrtales,Onagraceae,Onagroideae,Epilobium,producer,exact,exact
+Epilobium tetragonum,0.161,NA,Myrtales,Onagraceae,Onagroideae,Epilobium,producer,exact,exact
+Urtica urens,0.469,NA,Rosales,Urticaceae,NA,Urtica,producer,exact,exact
+Rumex crispus,0.34,NA,Caryophyllales,Polygonaceae,Polygonoideae,Rumex,producer,exact,exact
+Rumex obtusifolius,NA,NA,Caryophyllales,Polygonaceae,Polygonoideae,Rumex,producer,exact,exact
+Persicaria maculosa,NA,NA,Caryophyllales,Polygonaceae,Polygonoideae,Persicaria,producer,exact,exact
+Cirsium palustre,NA,NA,Asterales,Asteraceae,Carduoideae,Cirsium,producer,exact,exact
+Cirsium vulgare,NA,NA,Asterales,Asteraceae,Carduoideae,Cirsium,producer,exact,exact
+Tripleurospermum indodorum,NA,NA,Asterales,Asteraceae,Carduoideae,Tripleurospermum,producer,exact,exact
+Salvinia auriculata,NA,NA,Salviniales,Salviniaceae,NA,Salvinia,producer,exact,exact
+Chenopodium album,NA,NA,Caryophyllales,Amaranthaceae,Chenopodioideae,Chenopodium,producer,exact,exact
+Stachys sylvatica,NA,NA,Lamiales,Lamiaceae,Lamioideae,Stachys,producer,exact,exact
+Plantago major,NA,NA,Lamiales,Plantaginaceae,NA,Plantago,producer,exact,exact
+Stellaria media,NA,NA,Caryophyllales,Caryophyllaceae,NA,Stellaria,producer,exact,exact
+Matricaria discoidea,NA,NA,Asterales,Asteraceae,Asteroideae,Matricaria,producer,exact,exact
+Veronica anagallis-aquatica,NA,NA,Lamiales,Plantaginaceae,NA,Veronica,producer,exact,exact
+Poaceae,0.161,NA,Poales,Poaceae,NA,NA,producer,exact,family
+Galium aparine,0.141,NA,Gentianales,Rubiaceae,Rubioideae,Rubieae,producer,exact,exact
+Poa ,NA,NA,Poales,Poaceae,Pooideae,Poa,producer,exact,genus
+Elytrigia ,NA,NA,Poales,Poaceae,NA,NA,producer,exact,genus
+Phalaris arundinacea,NA,NA,Poales,Poaceae,Pooideae,Poa,producer,exact,exact
+Lactuca serriola,NA,NA,Asterales,Asteraceae,Cichorioideae,Lactuca,producer,exact,exact
+Medicago lupulina,NA,NA,Fabales,Fabaceae,Faboideae,Medicago,producer,exact,exact
+Trifolium repens,NA,NA,Fabales,Fabaceae,Faboideae,Trifolium,producer,exact,exact
+Sonchus oleraceus,NA,NA,Asterales,Asteraceae,Cichorioideae,Sonchus,producer,exact,exact
+Acer pseudoplatanus,NA,NA,Sapindales,Sapindaceae,NA,Acer,producer,exact,exact
+Tetragnatha extensa,7,Arachnida,Araneae,Tetragnathidae,NA,Tetragnatha,predator,family,genus
+Tetragnatha montana,NA,Arachnida,Araneae,Tetragnathidae,NA,Tetragnatha,predator,family,genus
+Tetragnatha extensa (j),NA,Arachnida,Araneae,Tetragnathidae,NA,Tetragnatha,predator,family,genus
+Tetragnatha (j),NA,Arachnida,Araneae,Tetragnathidae,NA,Tetragnatha,predator,family,genus
+Pachygnatha clerki,1,Arachnida,Araneae,Tetragnathidae,NA,Pachygnatha ,predator,family,genus
+Heliophanus flavipes,NA,Arachnida,Araneae,Salticidae,NA,Heliophanus,predator,family,genus
+Heliophanus cupreus,NA,Arachnida,Araneae,Salticidae,NA,Heliophanus ,predator,family,genus
+Heliophanus flavipes (j),NA,Arachnida,Araneae,Salticidae,NA,Heliophanus ,predator,family,genus
+Xysticus cristatus,2,Arachnida,Araneae,Thomisidae,NA,Xysticus,predator,family,genus
+Xysticus sabulosus,NA,Arachnida,Araneae,Thomisidae,NA,Xysticus,predator,family,genus
+Episinus angulatus,NA,Arachnida,Araneae,Theridiidae,NA,Episinus ,predator,family,family
+Enoplognatha ovata,NA,Arachnida,Araneae,Theridiidae,NA,Enoplognatha,predator,family,family
+Enoplognatha ovata (j),NA,Arachnida,Araneae,Theridiidae,NA,Enoplognatha,predator,family,family
+Theridion blackwalli,NA,Arachnida,Araneae,Gnaphosidae,NA,Theridion ,predator,family,genus
+Theridion varians,NA,Arachnida,Araneae,Gnaphosidae,NA,Theridion ,predator,family,genus
+Drassodes cupreus,1,Arachnida,Araneae,Gnaphosidae,NA,Drassodes,predator,family,genus
+Drassodes cupreus (j),4,Arachnida,Araneae,Gnaphosidae,NA,Drassodes,predator,family,genus
+Gnaphossidae (j),NA,Arachnida,Araneae,Gnaphosidae,NA,NA,predator,family,family
+Clubiona (j),1,Arachnida,Araneae,Clubionidae,NA,Clubiona ,predator,family,genus
+Clubiona diversa,NA,Arachnida,Araneae,Clubionidae,NA,Clubiona ,predator,family,genus
+Clubiona diversa (j),NA,Arachnida,Araneae,Clubionidae,NA,Clubiona ,predator,family,genus
+Hahnia montana,NA,Arachnida,Araneae,Hahniidae,NA,Hahnia,predator,family,family
+Helophora insignis,NA,Arachnida,Araneae,Linyphiidae,NA,Helophora,predator,family,family
+Panamomops sulcifrons,NA,Arachnida,Araneae,Linyphiidae,NA,Panamomops,predator,family,family
+Erigone vagans,1,Arachnida,Araneae,Linyphiidae,NA,Erigone,predator,family,genus
+Erigone longipalpis,NA,Arachnida,Araneae,Linyphiidae,NA,Erigone,predator,family,genus
+Lepthyphantes alacris,1,Arachnida,Araneae,Linyphiidae,NA,Lepthyphantes,predator,family,genus
+Lepthyphantes (j),1,Arachnida,Araneae,Linyphiidae,NA,Lepthyphantes,predator,family,genus
+Metopobactrus prominulus,NA,Arachnida,Araneae,Linyphiidae,NA,Metopobactrus,predator,family,family
+Porrhomma pygmaeum,NA,Arachnida,Araneae,Linyphiidae,NA,Porrhomma,predator,family,genus
+Hylyphantes graminicola,NA,Arachnida,Araneae,Linyphiidae,NA,Hylyphantes,predator,family,family
+Hypomma bituberculatum,NA,Arachnida,Araneae,Linyphiidae,NA,Hypomma,predator,family,family
+Linyphiidae (j),22,Arachnida,Araneae,Linyphiidae,NA,Linyphiidae,predator,family,family
+Stemonyphates lineatus (j),NA,Arachnida,Araneae,Linyphiidae,NA,Stemonyphates,predator,family,family
+Gnathonarium dentatum,1,Arachnida,Araneae,Linyphiidae,NA,Gnathonarium,predator,family,family
+Araneus diadematus,2,Arachnida,Araneae,Araenidae,NA,Araneus,predator,family,exact
+Larinoides cornutus,5,Arachnida,Araneae,Araenidae,NA,Larinoides,predator,family,family
+Larinoides cornutus (j),4,Arachnida,Araneae,Araenidae,NA,Larinoides,predator,family,family
+Araenidae (j),7,Arachnida,Araneae,Araenidae,NA,NA,predator,family,family
+Opiliones,NA,Arachnida,Opiliones,NA,NA,NA,predator,family,order
+Acari,2,Arachnida,Acari,NA,NA,NA,omnivore,family,order
+Phaedon cochleariae,4,Insecta,Coleoptera,Chrysomelidae,Chrysomelinae,Phaedon,herbivore,exact,exact
+Altica lythri,7,Insecta,Coleoptera,Chrysomelidae,Alticinae,Altica,herbivore,exact,genus
+Alticini,NA,Insecta,Coleoptera,Chrysomelidae,Alticinae,Alticini,herbivore,genus,subfamily
+Chrysomelidae (l),81,Insecta,Coleoptera,Chrysomelidae,NA,NA,herbivore,genus,family
+Galerucella sagittariae,NA,Insecta,Coleoptera,Chrysomelidae,Galerucinae,Galerucella,herbivore,exact,exact
+Chrysomelidae ,NA,Insecta,Coleoptera,Chrysomelidae,NA,Chrysomelid,herbivore,genus,family
+Prasocuris junci,NA,Insecta,Coleoptera,Chrysomelidae,Chrysomelinae,Prasocuris,herbivore,exact,exact
+Phalacridae,NA,Insecta,Coleoptera,Phalacridae,NA,Phalacridae,fungivore,family,family
+Olibrus affinis,NA,Insecta,Coleoptera,Phalacridae,NA,Olibrus,herbivore,genus,genus
+Stenus picipennis,NA,Insecta,Coleoptera,Staphylinidae,Steninae,Stenus,predator,subfamily,subfamily
+Stenus similus,2,Insecta,Coleoptera,Staphylinidae,Steninae,Stenus,predator,subfamily,subfamily
+Stenus solutus,NA,Insecta,Coleoptera,Staphylinidae,Steninae,Stenus,predator,subfamily,subfamily
+Stenus cicindeloides,NA,Insecta,Coleoptera,Staphylinidae,Steninae,Stenus,predator,subfamily,subfamily
+Stenus nitidiusculus,NA,Insecta,Coleoptera,Staphylinidae,Steninae,Stenus,predator,subfamily,subfamily
+Stenus pallitarsus,NA,Insecta,Coleoptera,Staphylinidae,Steninae,Stenus,predator,subfamily,subfamily
+Lathrobium fulvipenne,NA,Insecta,Coleoptera,Staphylinidae,Paederinae,Lathrobium,predator,subfamily,genus
+Neobisnius lathroboides,1,Insecta,Coleoptera,Staphylinidae,Staphylininae,Neobisnius,herbivore,genus,subfamily
+Tachyporus obtusus,NA,Insecta,Coleoptera,Staphylinidae,Tachyporinae,Tachyporus,predator,family,genus
+Staphylinidae (l),2,Insecta,Coleoptera,Staphylinidae,NA,Staphylinidae,predator,family,family
+Cartodere bifasciata,NA,Insecta,Coleoptera,Latridiidae,Latridiinae,Cartodere,fungivore,exact,genus
+Melanopthalma,NA,Insecta,Coleoptera,Latridiidae,Corticariinae,Melanopthalma,fungivore,exact,family
+Cortinicaria gibbosus,NA,Insecta,Coleoptera,Latridiidae,Corticariinae,Cortinicaria,fungivore,exact,family
+Stephostethus lardarius,NA,Insecta,Coleoptera,Latridiidae,Latridiinae,Stephostethus,fungivore,exact,family
+Latridiidae,1,Insecta,Coleoptera,Latridiidae,NA,NA,fungivore,exact,family
+Dienerella,NA,Insecta,Coleoptera,Latridiidae,Latridiinae,Dienerella,fungivore,exact,genus
+Caenoscelis ferruginea,NA,Insecta,Coleoptera,Cryptophagidae,Cryptophaginae,Caenoscelis,fungivore,exact,family
+Atomaria,NA,Insecta,Coleoptera,Cryptophagidae,Atomariinae,Atomaria,fungivore,exact,genus
+Cryptophagidae,2,Insecta,Coleoptera,Cryptophagidae,NA,NA,fungivore,exact,family
+Leiodidae,NA,Insecta,Coleoptera,Leiodidae,NA,NA,fungivore,exact,family
+Brachypterus urticae,4,Insecta,Coleoptera,Kateretidae,NA,Brachypterus,herbivore,family,family
+Ceratapion onopordi,NA,Insecta,Coleoptera,Apionidae,Apioninae,Ceratapion,herbivore,exact,exact
+Omphalapion hookerorum,NA,Insecta,Coleoptera,Apionidae,Apioninae,Omphalapion,herbivore,exact,exact
+Perapion hydrolapathi,2,Insecta,Coleoptera,Apionidae,Apioninae,Perapion,herbivore,genus,genus
+Amalorrhynchus melanrius,NA,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Amalorrhynchus,herbivore,exact,exact
+Trichosirocalus trogladytes,2,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Trichosirocalus,herbivore,genus,genus
+Ceutorhynchus,1,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Ceutorhynchus,herbivore,genus,genus
+Gymnetron veronicae,NA,Insecta,Coleoptera,Curculionidae,Curculioninae,Gymnetron,herbivore,genus,genus
+Drupenatus nasturtii,NA,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Drupenatus,herbivore,genus,subfamily
+Neophytobius muricatus,NA,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Neophytobius,herbivore,genus,subfamily
+Parathelcus pollinarius,NA,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Parathelcus,herbivore,genus,subfamily
+Zacladus exiguus ,NA,Insecta,Coleoptera,Curculionidae,Ceutorhynchinae,Zacladus,herbivore,genus,genus
+Hypera rumicis,NA,Insecta,Coleoptera,Curculionidae,Hyperinae,Hypera,herbivore,exact,exact
+Archarius salivorus,NA,Insecta,Coleoptera,Curculionidae,Curculioninae,Archarius,herbivore,genus,genus
+Ceratopus ,NA,Insecta,Coleoptera,Curculionidae,Curculioninae,Ceratopus,herbivore,genus,family
+Rhynchites longiceps,NA,Insecta,Coleoptera,Curculionidae,NA,Rhynchites,herbivore,genus,genus
+Coccidula rufa,1,Insecta,Coleoptera,Coccinellidae,Coccinelinae,Coccidula,predator,genus,genus
+Propylea quatuordecimpunctata,3,Insecta,Coleoptera,Coccinellidae,Coccinelinae,Propylea,predator,exact,exact
+Coccinellidae (l),1,Insecta,Coleoptera,Coccinellidae,NA,Coccinellidae,predator,genus,family
+Adalia bipunctata,NA,Insecta,Coleoptera,Coccinellidae,Coccinelinae,Adalia,predator,genus,exact
+Rhagonycha fulva,NA,Insecta,Coleoptera,Cantharidae,Cantharinae,Rhagonycha,omnivore,genus,exact
+Meligethes,NA,Insecta,Coleoptera,Nitidulidae,Meligethinae,Meligethes,herbivore,genus,genus
+Nitidulidae,NA,Insecta,Coleoptera,Nitidulidae,NA,Nitidulidae,herbivore,genus,family
+Enallagma cyathigerum,NA,Insecta,Odonata,Coenagrionidae,NA,Enallagma,herbivore,exact,exact
+Nabis rugosus,1,Insecta,Hemiptera,Nabidae,Nabinae,Nabis,predator,genus,genus
+Liocoris tripustulatus,NA,Insecta,Hemiptera,Miridae,Mirinae,Liocoris,predator,exact,exact
+Closterotomus norwegicus,NA,Insecta,Hemiptera,Miridae,Mirinae,Closterotomus,predator,genus,genus
+Lygus rugulipennis,NA,Insecta,Hemiptera,Miridae,Mirinae,Lygus,herbivore,exact,exact
+Deraeocoris lutescens,NA,Insecta,Hemiptera,Miridae,Deraeocorinae,Deraeocoris,predator,exact,exact
+Atractotomus mali,NA,Insecta,Hemiptera,Miridae,Phylinae,Atractotomus,predator,exact,exact
+Dicyphus,3,Insecta,Hemiptera,Miridae,Dicyphini,Dicyphus,predator,family,genus
+Dicyphus epilobii,NA,Insecta,Hemiptera,Miridae,Dicyphini,Dicyphus,predator,family,genus
+Dicyphus pallicornis,NA,Insecta,Hemiptera,Miridae,Dicyphini,Dicyphus,predator,family,genus
+Dicyphus stachydis,NA,Insecta,Hemiptera,Miridae,Dicyphini,Dicyphus,predator,family,genus
+Dicyphus globulifera,1,Insecta,Hemiptera,Miridae,Dicyphini,Dicyphus,predator,family,genus
+Lopus decolor,NA,Insecta,Hemiptera,Miridae,Phylinae,Lopus,herbivore,genus,subfamily
+Agnocoris reclairei,NA,Insecta,Hemiptera,Miridae,Mirinae,Agnocoris,herbivore,genus,subfamily
+Orthonotus rufifrons,NA,Insecta,Hemiptera,Miridae,Phylinae,Orthonotus,herbivore,genus,subfamily
+Orthotylus,NA,Insecta,Hemiptera,Miridae,Orthotylinae,Orthotylus,herbivore,genus,genus
+Mirini,NA,Insecta,Hemiptera,Miridae,Mirinae,Mirini,herbivore,genus,subfamily
+Miridae,1,Insecta,Hemiptera,Miridae,NA,Miridae,herbivore,genus,family
+Miridae (j),2,Insecta,Hemiptera,Miridae,NA,Miridae,herbivore,genus,family
+Pinalitus cervinus,NA,Insecta,Hemiptera,Miridae,Mirinae,Pinalitus,herbivore,genus,genus
+Strictopluerus punctatanervosous,NA,Insecta,Hemiptera,Rhopalidae,Rhopalinae,Strictopluerus,herbivore,genus,family
+Palomena prasina,NA,Insecta,Hemiptera,Pentatomoidea,Pentatominae,Palomena,herbivore,genus,family
+Piezodorus lituratus (n),NA,Insecta,Hemiptera,Pentatomoidea,Pentatominae,Piezodorus,herbivore,genus,family
+Eysarcoris venustissimus,NA,Insecta,Hemiptera,Pentatomoidea,Pentatominae,Eysarcoris,herbivore,genus,family
+Heterogaster urticae,NA,Insecta,Hemiptera,Lygaeidae,NA,Heterogaster,herbivore,exact,exact
+Scolopostethus,NA,Insecta,Hemiptera,Lygaeidae,NA,Scolopostethus,herbivore,genus,family
+Nysius ericae,NA,Insecta,Hemiptera,Lygaeidae,NA,Nysius,herbivore,genus,exact
+Stygnocoris fuliginea,NA,Insecta,Hemiptera,Lygaeidae,NA,Stygnocoris,herbivore,genus,genus
+Stygnocoris sabulosus,1,Insecta,Hemiptera,Lygaeidae,NA,Stygnocoris,herbivore,genus,genus
+Lygaeidae,1,Insecta,Hemiptera,Lygaeidae,NA,Lygaeidae,predator,family,family
+Anthocoris nemorum,5,Insecta,Hemiptera,Anthocoridae,Anthocorinae,Anthocoris,predator,exact,exact
+Anthocridae ,1,Insecta,Hemiptera,Anthocoridae,NA,Anthocridae,predator,family,family
+Orius niger,NA,Insecta,Hemiptera,Anthocoridae,Anthocorinae,Orius,omnivore,genus,genus
+Orius ,NA,Insecta,Hemiptera,Anthocoridae,Anthocorinae,Orius,omnivore,genus,genus
+Hebrus rufipes,3,Insecta,Hemiptera,Hebridae,Hebrinae,Hebrus,herbivore,genus,order
+Eurygaster testudinaria,NA,Insecta,Hemiptera,Scutelleridae,"	Eurygastrinae",Eurygaster,herbivore,genus,genus
+Agallia consobrina,1,Insecta,Hemiptera,Cicadellidae,Agalliinae,Agallia,herbivore,genus,genus
+Eupterycyba jucunda,2,Insecta,Hemiptera,Cicadellidae,Typhlocybinae,Eupterycyba,herbivore,genus,subfamily
+Trioza urticae,NA,Insecta,Hemiptera,Triozidae,NA,Trioza,herbivore,genus,exact
+Macrosteles horvathi,1,Insecta,Hemiptera,Cicadellidae,Deltocephalinae,Macrosteles,herbivore,genus,genus
+Cicadellidae (j),4,Insecta,Hemiptera,Cicadellidae,NA,NA,herbivore,genus,family
+Aphididae,5,Insecta,Hemiptera,Aphidae,NA,NA,herbivore,genus,family
+Psyllidae,1,Insecta,Hemiptera,Psyllidae,NA,NA,herbivore,genus,family
+Hemiptera,NA,Insecta,Hemiptera,Psyllidae,NA,NA,herbivore,genus,family
+Noctuidae,NA,Insecta,Lepidoptera,Noctuidae,NA,NA,herbivore,genus,family
+Gortyna flavago,NA,Insecta,Lepidoptera,Noctuidae,Noctuinae,Gortyna,herbivore,genus,exact
+Hecatera dysodea,NA,Insecta,Lepidoptera,Noctuidae,Noctuinae,Hecatera,herbivore,genus,exact
+Scotopteryx chenopodiata,NA,Insecta,Lepidoptera,Geometridae,Larentiinae,Scotopteryx,herbivore,genus,genus
+Geometridae,NA,Insecta,Lepidoptera,Geometridae,NA,NA,herbivore,genus,family
+Idaea biselata,1,Insecta,Lepidoptera,Geometridae,Sterrhinae,Idaea,herbivore,genus,genus
+Inachis io,NA,Insecta,Lepidoptera,Nymphalidae,"	Nymphalinae",Inachis,herbivore,genus,exact
+Nymphalidae,1,Insecta,Lepidoptera,Nymphalidae,NA,Nymphalidae,herbivore,genus,family
+Ichneumonidae ,NA,Insecta,Hymenoptera,Ichneumonidae ,NA,NA,parasite,genus,family
+Netelia melanura,NA,Insecta,Hymenoptera,Ichneumonidae ,Tryphoninae,Netelia,parasite,genus,genus
+Orthopelma mediator,NA,Insecta,Hymenoptera,Ichneumonidae ,Orthopelmatinae,Orthopelma,parasite,genus,family
+Enicospilus,NA,Insecta,Hymenoptera,Ichneumonidae ,Ophioninae,Enicospilus,parasite,genus,genus
+Evaniidae,1,Insecta,Hymenoptera,Evaniidae,NA,NA,parasitoids,family,family
+Aulacidae,NA,Insecta,Hymenoptera,Evaniidae,NA,NA,parasitoids,family,family
+Braconidae,1,Insecta,Hymenoptera,Braconidae,NA,NA,parasitoids,family,family
+Trichogrammatidae,NA,Insecta,Hymenoptera,Chalcidoidea,NA,NA,parasitoids,family,order
+Chalcidoidae,1,Insecta,Hymenoptera,Chalcidoidea,NA,NA,parasitoids,family,order
+Eulophidae,NA,Insecta,Hymenoptera,Chalcidoidea,NA,NA,parasitoids,family,order
+Pteromalidae,NA,Insecta,Hymenoptera,Chalcidoidea,NA,NA,parasitoids,family,order
+Lasioglossum,NA,Insecta,Hymenoptera,Halictini,Halictinae,Lasioglossum,herbivore,genus,genus
+Cynipoidea,2,Insecta,Hymenoptera,Cynipoidea,NA,NA,hyperparasite,family,order
+Hymenoptera ,NA,Insecta,Hymenoptera,Cynipoidea,NA,NA,hyperparasite,family,order
+Nemurella pictetii,NA,Insecta,Plecoptera,Nemouridae,NA,Nemurella,detritivore,exact,exact
+Nemouridae (1IN),1,Insecta,Plecoptera,Nemouridae,NA,NA,detritivore,genus,family
+Agapetus fuscipes,NA,Insecta,Trichoptera,Glossosomatidae,NA,Agapetus,detritivore,exact,family
+Drusus annulatus,NA,Insecta,Trichoptera,Limnephilidae,NA,Drusus,omnivore,exact,exact
+Agraylea multipunctata,1,Insecta,Trichoptera,Hydroptilidae,NA,Agraylea,detritivore,exact,family
+Thysanoptera,1,Insecta,Thysanoptera,NA,NA,NA,herbivore,exact,order
+Lumbricidae,NA,Clitellata,Opisthopora,Lumbricidae,NA,NA,herbivore,exact,order
+Porcellio scaber,9,Malacostraca,Isopoda,Porcellionidae,NA,Porcellio,detritivore,exact,exact
+Psocoptera,NA,Insecta,Psocoptera,NA,NA,NA,fungivore,exact,order
+Isotomidae,1,Entognatha,Collembola,Isotomidae,NA,NA,detritivore,exact,family
+Hypogastruridae,NA,Entognatha,Collembola,Hypogastruridae,NA,NA,detritivore,exact,family
+Entomobryidae,NA,Entognatha,Collembola,Entomobryidae,NA,NA,detritivore,exact,family
+Sialidae (l),NA,Insecta,Megaloptera,Sialidae ,NA,NA,predator,genus,family
+Chrysopidae (l),NA,Insecta,Neuroptera,Chrysopidae,NA,NA,omnivore,exact,exact
+Napomyza lateralis,NA,Insecta,Diptera,Agromyzidae,NA,Napomyza,herbivore,genus,genus
+Phytoliriomyza dorsata,NA,Insecta,Diptera,Agromyzidae,NA,Phytoliriomyza,herbivore,genus,genus
+Phytomyza pullula,NA,Insecta,Diptera,Agromyzidae,NA,Phytomyza,herbivore,genus,genus
+Phytomyza ,NA,Insecta,Diptera,Agromyzidae,NA,Phytomyza,herbivore,genus,genus
+Agromyzidae,NA,Insecta,Diptera,Agromyzidae,NA,Agromyzidae,herbivore,genus,family
+Anthomyidae,NA,Insecta,Diptera,Anthomyidae,NA,Anthomyidae,herbivore,genus,family
+Asteia amoena,NA,Insecta,Diptera,Asteiidae,Asteiinae,Asteia,herbivore,genus,order
+Elachiptera cornuta,NA,Insecta,Diptera,Chloropidae,Oscinellinae,Elachiptera,herbivore,genus,genus
+Elachiptera megaspis,NA,Insecta,Diptera,Chloropidae,Oscinellinae,Elachiptera,herbivore,genus,genus
+Meromyza,NA,Insecta,Diptera,Chloropidae,Chloropinae,Meromyza,herbivore,genus,genus
+Oscinella,NA,Insecta,Diptera,Chloropidae,Oscinellinae,Oscinella,herbivore,genus,genus
+Thaumatomyia notata,NA,Insecta,Diptera,Chloropidae,Chloropinae,Thaumatomyia,herbivore,genus,genus
+Chloropidae,1,Insecta,Diptera,Chloropidae,NA,NA,herbivore,genus,family
+Culicidae,1,Insecta,Diptera,Culicidae,NA,NA,detritivore,exact,family
+Anepsiomyia flaviventris,NA,Insecta,Diptera,Dolichopodidae,Sympycninae,Anepsiomyia,detritivore,genus,family
+Chrysotus ,NA,Insecta,Diptera,Dolichopodidae,Diaphorinae,Chrysotus,predator,genus,genus
+Sympycnus desoutteri,NA,Insecta,Diptera,Dolichopodidae,Sympycninae,Sympycnus,predator,genus,family
+Drosophilidae,2,Insecta,Diptera,Drosophilidae,NA,NA,herbivore,genus,family
+Chelifera precatoria,NA,Insecta,Diptera,Empididae,Hemerodromiinae,Chelifera,predator,genus,subfamily
+Clinocera stagnalis,2,Insecta,Diptera,Empididae,Clinocerinae,Clinocera,predator,genus,subfamily
+Empis aestiva,NA,Insecta,Diptera,Empididae,Empidinae,Empis,predator,genus,genus
+Empis albinervis,NA,Insecta,Diptera,Empididae,Empidinae,Empis,predator,genus,genus
+Kowarzia bipunctata,NA,Insecta,Diptera,Empididae,Clinocerinae,Kowarzia,predator,genus,subfamily
+Setacera,NA,Insecta,Diptera,Ephydridae,Ephydrinae,Setacera,detritivore,genus,family
+Lonchoptera bifurcata,NA,Insecta,Diptera,Lonchopteridae,NA,Lonchoptera,fungivore,exact,genus
+Lonchoptera lutea,NA,Insecta,Diptera,Lonchopteridae,NA,Lonchoptera,fungivore,exact,genus
+Microphor crassipes,1,Insecta,Diptera,Microphoridae,Microphorinae,Microphor,predator,genus,genus
+Limnophora,NA,Insecta,Diptera,Muscidae,Coenosiinae,Limnophora,predator,genus,genus
+Psychodidae,NA,Insecta,Diptera,Psychodidae,NA,NA,detritivore,exact,family
+Psychodidae (l),NA,Insecta,Diptera,Psychodidae,NA,NA,detritivore,exact,exact
+Phoridae,NA,Insecta,Diptera,Phoridae,NA,NA,predator,genus,exact
+Opacifrons coxata,NA,Insecta,Diptera,Sphaeroceridae,Limosininae,Opacifrons,herbivore,subfamily,family
+Pseudocollinella humida,1,Insecta,Diptera,Sphaeroceridae,Limosininae,Pseudocollinella,herbivore,subfamily,family
+Beris vallata,NA,Insecta,Diptera,Stratiomyidae,Beridinae,Beris,herbivore,subfamily,family
+Nemotelus nigrinus,NA,Insecta,Diptera,Stratiomyidae,Nemotelinae,Nemotelus,herbivore,subfamily,family
+Episyrphus balteatus,NA,Insecta,Diptera,Syrphidae,Syrphinae,Episyrphus,predator,genus,exact
+Eupeodes corollae,NA,Insecta,Diptera,Syrphidae,Syrphinae,Eupeodes,predator,genus,exact
+Sphaerophoria scripta,NA,Insecta,Diptera,Syrphidae,Syrphinae,Sphaerophoria,predator,genus,exact
+Syritta pipiens,NA,Insecta,Diptera,Syrphidae,Eristalinae,Syritta,detritivore,exact,exact
+Xanthogramma citrofasciatum,NA,Insecta,Diptera,Syrphidae,Syrphinae,Xanthogramma,omnivore,exact,subfamily
+Meigenia,NA,Insecta,Diptera,Tachinidae,Exoristinae,Meigenia,parasite,exact,subfamily
+Tachinidae,NA,Insecta,Diptera,Tachinidae,NA,NA,parasite,exact,family
+Tipula  lateralis,NA,Insecta,Diptera,Tipulidae,Tipulinae,Tipula,detritivore,exact,genus
+Chironomidae,53,Insecta,Diptera,Chironomidae,,Chironomidae,omnivore,exact,family
+CPOM,,NA,NA,NA,NA,NA,detritus,exact,exact
+Detritus,,NA,NA,NA,NA,NA,detritus,exact,exact
+Fungal spores,,NA,NA,NA,NA,NA,detritus,exact,exact
+Algae,,NA,NA,NA,NA,NA,detritus,exact,exact
+Diatom,,NA,NA,NA,NA,NA,producer,exact,exact
+Filamentous algae,,NA,NA,NA,NA,NA,producer,exact,exact
+FPOM,NA,NA,NA,NA,NA,NA,detritus,exact,exact
